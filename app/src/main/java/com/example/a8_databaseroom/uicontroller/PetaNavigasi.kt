@@ -21,7 +21,10 @@ import com.example.a8_databaseroom.view.DestinasiHome
 import com.example.a8_databaseroom.view.EntrySiswaScreen
 import com.example.a8_databaseroom.view.HomeScreen
 
-
+@Composable
+fun SiswaApp(navController: NavHostController = rememberNavController()){
+    HosNavigasi(navController = navController)
+}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
