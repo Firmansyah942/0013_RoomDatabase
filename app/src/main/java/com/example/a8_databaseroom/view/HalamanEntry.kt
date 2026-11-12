@@ -32,6 +32,10 @@ import com.example.a8_databaseroom.viewmodel.PenyediaViewModel
 import com.example.a8_databaseroom.viewmodel.UIStateSiswa
 import kotlinx.coroutines.launch
 
+object DestinasiEntry: DestinasiNavigasi {
+    override val route = "item_entry"
+    override val titleRes = R.string.entry_siswa
+}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
