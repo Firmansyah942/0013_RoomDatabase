@@ -1,4 +1,4 @@
-package com.example.pertemuan9.uicontroller
+package com.example.pertemuan9.view.uicontroller
 
 interface DestinasiNavigasi {
     /**
