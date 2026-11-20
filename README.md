@@ -1,7 +1,7 @@
 # 0035_RoomDatabase
 ## Tampilan Aplikasi
 ### Tampilan Data (Sebelum Diisi)
-<img width="1466" height="3101" alt="image" src="https://github.com/user-attachments/assets/2f04ea3e-eb8c-4dde-a589-586c31982997" />
+<img width="459" height="983" alt="Screenshot 2026-11-13 at 22 59 12" src="https://github.com/user-attachments/assets/c9cb0e8a-7957-4ab4-9052-4a985e1c0b08" />
 
 ### Tampilan Form Isi Data
 <img width="1466" height="3101" alt="image" src="https://github.com/user-attachments/assets/985ac9d1-50ae-4d03-b608-3bb582d5f1e9" />
